@@ -1,12 +1,4 @@
-##########################
-
-
 #   input --> system--> output  
-#### output : great!!! you is very good ; true
-#### input: random number
-######################################
-# 1- darvaft yek adad random
-# 2- 
 import random
 inp1 = random.randint(0, 10) 
 inp2 = int(input())
